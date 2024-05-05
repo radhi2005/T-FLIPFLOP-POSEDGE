@@ -28,8 +28,6 @@ From the above characteristic table, we can directly write the next state equati
 
 **Procedure**
 
-**Procedure**
-
 1.Define Module: Define a Verilog module for the T flip-flop with inputs (T, CLK) and outputs (Q, Q_bar).
 
 2.Declare Inputs and Outputs: Declare input and output ports for the module.
